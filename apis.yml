@@ -1,8 +1,25 @@
 aid: mitro
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mitro.png
 name: Mitro *
-description: 'Mitro * is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Mitro was a password manager for individuals and teams, founded in 2012 in New York City
+  by Vijay Pandurangan, Evan Jones, and Adam Hilss (former Google/Serious Eats engineers). It let multiple
+  people securely share and control logins to a single account, architected around cloud storage with
+  password databases encrypted client-side using keys derived from the user master password. Mitro raised
+  $1.2M in seed funding from Google Ventures (GV) and Matrix Partners. On July 31, 2014 the team joined
+  Twitter and released the Mitro source code on GitHub as free software under the GPL. The hosted Mitro
+  service shut down on October 6, 2015; its open-source successor is Passopolis. The company is defunct
+  and publishes no live API, developer portal, or reachable domain today.'
 url: https://raw.githubusercontent.com/api-evangelist/mitro/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +29,24 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Enterprise
+- Password Manager
+- Security
+- Identity
+- Credentials
+- Defunct
+- Open Source
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
