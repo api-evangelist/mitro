@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mitro * is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: gv
+Mitro was a password manager for individuals and teams, founded in 2012 in New York City by Vijay Pandurangan, Evan Jones, and Adam Hilss (former Google/Serious Eats engineers). It let multiple people securely share and control logins to a single account, architected around cloud storage with password databases encrypted client-side using keys derived from the user master password. Mitro raised $1.2M in seed funding from Google Ventures (GV) and Matrix Partners. On July 31, 2014 the team joined Twitter and released the Mitro source code on GitHub as free software under the GPL. The hosted Mitro service shut down on October 6, 2015; its open-source successor is Passopolis. The company is defunct and publishes no live API, developer portal, or reachable domain today.
+
+**Areas:** Company · Enterprise · Password Manager · Security · Identity · Credentials · Defunct · Open Source
+
+## Mitro * on APIs.io (historical record)
+
+Everything profiled for Mitro * is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mitro/](https://apis.io/providers/mitro/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mitro *: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mitro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
